@@ -1,2 +1,2 @@
-# RVS(Remote Video Share)
+# RVTO(Remote Video Together Online)
 Watch video with your friend!
